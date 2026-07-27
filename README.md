@@ -72,3 +72,7 @@ This project is an interactive Power BI dashboard developed to analyze mobile ph
 💼 LinkedIn: https://www.linkedin.com/in/vishal-mandal-83a104379
 
 ⭐ If you found this project helpful, please consider giving it a star.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0176D3?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
