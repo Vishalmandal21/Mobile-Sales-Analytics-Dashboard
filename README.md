@@ -51,3 +51,24 @@ This project is an interactive Power BI dashboard developed to analyze mobile ph
 
 ### City Analysis
 ![City](Images/city-analysis.png)
+---
+
+## 💡 Business Insights
+
+- Identified top-performing mobile brands.
+- Analyzed city-wise sales performance.
+- Compared payment method preferences.
+- Tracked customer rating distribution.
+- Monitored daily sales trends.
+
+---
+
+## 👨‍💻 Author
+
+**Vishal Mandal**
+
+🌐 Portfolio: https://vishalportfolio26.lovable.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/vishal-mandal-83a104379
+
+⭐ If you found this project helpful, please consider giving it a star.
