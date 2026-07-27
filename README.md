@@ -31,3 +31,23 @@ This project is an interactive Power BI dashboard developed to analyze mobile ph
 - Payment Method Analysis
 - Customer Rating Analysis
 - Daily Sales Trend
+## 📈 Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Quantity Sold
+- Total Transactions
+- Average Sales
+- Cities Covered
+
+---
+
+## 📸 Dashboard Screenshots
+
+### apple Filter
+![Samsung](Images/apple-filter.png)
+
+### January Filter
+![January](Images/january-filter.png)
+
+### City Analysis
+![City](Images/city-analysis.png)
