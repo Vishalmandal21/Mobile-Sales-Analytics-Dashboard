@@ -17,8 +17,7 @@ This project is an interactive Power BI dashboard developed to analyze mobile ph
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Images/full-dashboard.png)
-
+![Dashboard](Images/dashboard-overview.png)
 
 ---
 
